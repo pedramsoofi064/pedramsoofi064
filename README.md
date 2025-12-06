@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Pedram Soofi
 
-Computer Science & Engineering -- 📍 OULU , FINLAND
+Computer Engineer -- 📍 OULU , FINLAND
 
 👨🏻‍💻 Front-End Engineer | Full-Stack Developer | Algorithms & Cloud | Instructor
 
@@ -8,7 +8,7 @@ Computer Science & Engineering -- 📍 OULU , FINLAND
 
 ## ✨ About Me
 
-I’m a Computer Scientist and Engineer with 6+ years of experience in web development—primarily front-end, with solid full-stack skills—and a passion for building clean, scalable products. I care about clarity, collaboration, and creating software that genuinely helps people, with a strong interest in algorithms, data structures, cloud computing, and distributed systems. Over the years, I’ve helped teams and students build reliable digital experiences, strengthen engineering culture, and share knowledge while continually learning.
+I’m a Computer Engineer with 6+ years of experience in web development—primarily front-end, with solid full-stack skills—and a passion for building clean, scalable products. I care about clarity, collaboration, and creating software that genuinely helps people, with a strong interest in algorithms, data structures, cloud computing, and distributed systems. Over the years, I’ve helped teams and students build reliable digital experiences, strengthen engineering culture, and share knowledge while continually learning.
 
 🔹 TypeScrip, JavaScript, NodeJs, Sequelize, Python , Java, C
 
@@ -38,14 +38,18 @@ WebRTC • PWA • SSR • API Design • Cloud-Native Workflows • OOP • Sys
 
 **Technical Team Lead / Senior Front-End Developer — Part Software Group (2023–2025)**
 
-	•	Built a scalable micro-frontend ecosystem with a custom CI/CD engine, enabling multi-tenant delivery and boosting client rollout speed.
-	•	Led architectural modernization (DDD/FSD), mentored developers, and drove major performance and DX improvements across the frontend team.
+•	Built a scalable micro-frontend ecosystem with a custom CI/CD engine, enabling multi-tenant delivery and boosting client rollout speed.
+
+•	Led architectural modernization (DDD/FSD), mentored developers, and drove major performance and DX improvements across the frontend team.
+
 
 **Front-End Developer — Part Software Group (2020–2023)**
 
-	•	Delivered high-scale products including Farashenasa (4M+ users), Ekyc (20+ enterprise clients), and Ivira (120+ AI services with SSR/PWA).
-	•	Built advanced features such as WebRTC liveness detection, a dynamic form-generator engine (boosting velocity 10×), and 20+ diverse web apps.
-	•	Improved engineering culture through strong testing practices, performance optimization, and running an internship program for 20+ students.
+•	Delivered high-scale products including Farashenasa (4M+ users), Ekyc (20+ enterprise clients), and Ivira (120+ AI services with SSR/PWA).
+
+•	Built advanced features such as WebRTC liveness detection, a dynamic form-generator engine (boosting velocity 10×), and 20+ diverse web apps.
+
+•	Improved engineering culture through strong testing practices, performance optimization, and running an internship program for 20+ students.
 
 ---
 
@@ -78,7 +82,7 @@ WebRTC • PWA • SSR • API Design • Cloud-Native Workflows • OOP • Sys
 ## 🎓 Education
 
 **B.Sc. in Computer Science & Engineering**  
-Ferdowsi University of Mashhad • GPA: 4.30 / 5.0
+Ferdowsi University of Mashhad • GPA: 4.5 / 5.0
 
 ---
 
