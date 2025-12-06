@@ -1,59 +1,69 @@
-# 👋 Hello!
+# 👋 Hello! I'm Pedram Soofi
 
-Hi! I’m **Pedram**, a Senior Front-End Engineer who loves building products that feel fast, simple, and meaningful.  
-I enjoy solving complex problems with clean architecture, great UX, and thoughtful engineering.
+Computer Science & Engineering -- 📍 OULU , FINLAND
 
----
-
-## ✨ Summary
-
-I’m a product-minded engineer who cares about clarity, collaboration, and building things that genuinely help people.  
-Over the years, I’ve worked with teams, students, and organizations to create reliable digital experiences and improve engineering culture.
-
-### **Skills Snapshot (Non-technical Focus)**  
-- User-focused problem solving  
-- System design thinking  
-- Ownership & leadership  
-- Mentoring developers  
-- Communication & collaboration  
-- Product & UX partnership  
+👨🏻‍💻 Front-End Engineer | Full-Stack Developer | Algorithms & Cloud | Instructor
 
 ---
 
-## 🧩 Technical Skills (Categorized)
+## ✨ About Me
 
-### **Frontend**
-React • Vue • Next.js • Nuxt.js • TypeScript • JavaScript (ES6+)  
-Micro-Frontends • Module Federation • Design Systems • State Machines • Web Workers
+I’m a Computer Scientist and Engineer with 6+ years of experience in web development—primarily front-end, with solid full-stack skills—and a passion for building clean, scalable products. I care about clarity, collaboration, and creating software that genuinely helps people, with a strong interest in algorithms, data structures, cloud computing, and distributed systems. Over the years, I’ve helped teams and students build reliable digital experiences, strengthen engineering culture, and share knowledge while continually learning.
+
+🔹 TypeScrip, JavaScript, NodeJs, Sequelize, Python , Java, C
+
+🔹 Vue , React, Next.js, Nuxt.js, Jest, Cypress, SQL, Postgres, Docker, Kubernetes, Redis
+
+🔹 Research, Algorithms, Data Structures, OOP, System Analysis & Architecture
+
+---
+## 🧩 Technical Skills
+
+### **Frontend & Languages**
+React • Vue • Next.js • Nuxt.js • TypeScript • JavaScript (ES6+) • NodeJs • Python • Java • C
+• Micro-Frontends • Design Systems 
 
 ### **Architecture & Patterns**
-Clean Architecture • DDD • FSD • SOLID • Event-Driven Design • SaaS Architecture
+Clean Architecture • Domain Driven Development • Feature Sliced Design • SOLID • Event-Driven Design • SaaS Architecture • Design Patterns
 
 ### **Performance & Quality**
-Testing (Vitest, Cypress) • TDD • Performance Optimization • Accessibility • CI/CD
+Testing (Vitest, Cypress, Jest) • Test Driven Development • Performance Optimization • Accessibility • CI/CD
 
 ### **Other Relevant Skills**
-WebRTC • PWA • SSR • API Design • Cloud-Native Workflows
+WebRTC • PWA • SSR • API Design • Cloud-Native Workflows • OOP • System Analysis & Architecture • Docker • State Machines • Web Workers • Compiler Design • Machine vision • Information Retrival
 
 ---
 
-## 💼 Experience (Short Version)
+## 💼 Experience
 
-**Senior Front-End Engineer / Architect – Part Software Group (2020–2025)**  
-Built micro-frontend banking ecosystems, design systems, and high-performance financial applications. Mentored engineers and shaped architecture across multiple product teams.
+**Technical Team Lead / Senior Front-End Developer — Part Software Group (2023–2025)**
 
-**Front-End Engineer – Rahe Roshd Institute (2024–2025)**  
-Designed and delivered modular booking systems with secure ACL layers and unified UI foundations, improving development speed and product consistency.
+	•	Built a scalable micro-frontend ecosystem with a custom CI/CD engine, enabling multi-tenant delivery and boosting client rollout speed.
+	•	Led architectural modernization (DDD/FSD), mentored developers, and drove major performance and DX improvements across the frontend team.
+
+**Front-End Developer — Part Software Group (2020–2023)**
+
+	•	Delivered high-scale products including Farashenasa (4M+ users), Ekyc (20+ enterprise clients), and Ivira (120+ AI services with SSR/PWA).
+	•	Built advanced features such as WebRTC liveness detection, a dynamic form-generator engine (boosting velocity 10×), and 20+ diverse web apps.
+	•	Improved engineering culture through strong testing practices, performance optimization, and running an internship program for 20+ students.
 
 ---
 
 ## 🚀 Notable Projects
 
-> *I will add more items soon.*
-
-- **SET Digital Banking (set.postbank.ir)** – Micro-frontend banking platform with scalable architecture.  
-- *(Placeholder)* **Project Name** – Short description.  
-- *(Placeholder)* **Project Name** – Short description.
+* **[Digital Banking](https://set.postbank.ir)** – Micro-frontend banking platform with scalable architecture.
+* **[IVira](https://ivira.ai/)** – AI services market place for users and service providers
+* **[eKYC - Online Authentication](https://ekyc.isignal.ir)** – Online authentication and **liveness detection** solution for businesses, ensuring robust **biometric verification**.
+* **[React TypeScript Vite Boilerplate](https://github.com/pedramsoofi064/react-ts-vite#react-typescript-vite-boilerplate)** – A modern, production-ready React boilerplate built with TypeScript, Vite, and Material-UI.
+* **[Vue 3 Boilerplate - Clean Architecture & Modular Design](https://github.com/pedramsoofi064/vue-clean-modular#vue-3-boilerplate---clean-architecture--modular-design)** – A production-ready Vue 3 boilerplate that combines Clean Architecture principles with Modular Design patterns.
+* **[Node Express Modular API](https://github.com/pedramsoofi064/node-modular-boilerplate#node-express-modular-api)** – A production-ready RESTful API built with Node.js, Express.js, and Sequelize. 
+* **[Design System Demo](https://github.com/pedramsoofi064/design-system-demo?tab=readme-ov-file#design-system-demo)** – A comprehensive, scalable design system implementation built with Vue.js and SCSS
+* **[Resume](https://github.com/pedramsoofi064/my-resume)** – This repository contains the source code for my résumé, written in LaTeX. Feel free to use :)
+* **[Keystone.js Boilerplate (Headless CMS)](https://github.com/pedramsoofi064/keystone-boilerplate#keystonejs-boilerplate)** - A clean, production-ready boilerplate for Keystone.js with essential lists and configurations to help you get started quickly.
+* **[Moola-Compiler-Design](https://github.com/pedramsoofi064/moola-compiler-design#%EF%B8%8F-moola-compiler-design)** - Implementation of a fully functional compiler for the custom programming language, Moola.
+* **[Information-Retrieval-CourseWork](https://github.com/pedramsoofi064/information-retrieval-courseWork#-information-retrieval-coursework)** - Official repository for assignments and practical implementations completed for the Ferdowsi Information Retrieval (IR) course.
+* **[ Machine-Vision-Coursework](https://github.com/pedramsoofi064/machine-vision-coursework#%EF%B8%8F-machine-vision-coursework)** - Repository containing all assignments and projects for the [Your University Name] Machine Vision (MV) course. 
+* **[ STM32-Super-Mario](https://github.com/pedramsoofi064/STM32-super-mario#-stm32-super-mario)** - An embedded tribute to the classic Super Mario Bros, implemented entirely on the STM32 Microcontroller platform.
 
 ---
 
@@ -77,25 +87,6 @@ Ferdowsi University of Mashhad • GPA: 4.30 / 5.0
 - Recognized as **Top Student in Internship Programs**  
 - Lecturer at multiple institutes and universities  
 - Designed and led developer onboarding programs and learning paths  
-
----
-
-## 🛠️ Full Skills List
-
-**Languages & Frameworks:**  
-TypeScript, JavaScript, React, Vue, Next.js, Nuxt.js, Node.js
-
-**Architecture & Systems:**  
-Micro-Frontends, Clean Architecture, DDD, FSD, Modular Monorepos
-
-**Testing & Quality:**  
-TDD, Cypress, Vitest, Unit/E2E Testing
-
-**Performance & Platform:**  
-PWA, SSR, WebRTC, Web Workers, State Machines
-
-**Tooling:**  
-Vite, Webpack, Git, Docker, CI/CD Pipelines
 
 ---
 
