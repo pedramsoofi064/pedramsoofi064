@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Pedram Soofi
 
-Computer Engineer -- 📍 OULU , FINLAND
+Computer Engineer - 📍 OULU , FINLAND
 
 👨🏻‍💻 Front-End Engineer | Full-Stack Developer | Algorithms & Cloud | Instructor
 
