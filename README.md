@@ -8,7 +8,7 @@ Computer Engineer - 📍 OULU , FINLAND
 
 ## ✨ About Me
 
-I’m a Computer Engineer with 6+ years of experience in web development—primarily front-end, with solid full-stack skills—and a passion for building clean, scalable products. I care about clarity, collaboration, and creating software that genuinely helps people, with a strong interest in algorithms, data structures, cloud computing, and distributed systems. Over the years, I’ve helped teams and students build reliable digital experiences, strengthen engineering culture, and share knowledge while continually learning.
+I’m a Computer Engineer with over 5 years of experience in web development—primarily front-end, with solid full-stack skills—and a passion for building clean, scalable products. I care about clarity, collaboration, and creating software that genuinely helps people, with a strong interest in algorithms, data structures, cloud computing, and distributed systems. Over the years, I’ve helped teams and students build reliable digital experiences, strengthen engineering culture, and share knowledge while continually learning.
 
 🔹 TypeScrip, JavaScript, NodeJs, Sequelize, Python , Java, C
 
@@ -36,7 +36,7 @@ WebRTC • PWA • SSR • API Design • Cloud-Native Workflows • OOP • Sys
 
 ## 💼 Experience
 
-**Technical Team Lead / Senior Front-End Developer — Part Software Group (2023–2025)**
+** Front-End Developer — Part Software Group (2020–2025)**
 
 •	Built a scalable micro-frontend ecosystem with a custom CI/CD engine, enabling multi-tenant delivery and boosting client rollout speed.
 
