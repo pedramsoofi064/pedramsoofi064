@@ -42,9 +42,6 @@ WebRTC • PWA • SSR • API Design • Cloud-Native Workflows • OOP • Sys
 
 •	Led architectural modernization (DDD/FSD), mentored developers, and drove major performance and DX improvements across the frontend team.
 
-
-**Front-End Developer — Part Software Group (2020–2023)**
-
 •	Delivered high-scale products including Farashenasa (4M+ users), Ekyc (20+ enterprise clients), and Ivira (120+ AI services with SSR/PWA).
 
 •	Built advanced features such as WebRTC liveness detection, a dynamic form-generator engine (boosting velocity 10×), and 20+ diverse web apps.
